@@ -3,7 +3,7 @@ Fitness is a program helping and encouraging people who intend to lose weights i
 
 # Screenshot 
 
-![screenshot](screenshot1.png)
+![screenshot](https://github.com/XTLiuuu/fitness/blob/master/screenshot.png)
 
 # Run Code 
 python3 fitness.py
